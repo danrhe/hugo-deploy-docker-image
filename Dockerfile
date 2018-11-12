@@ -1,5 +1,5 @@
 FROM alpine:3.7
-MAINTAINER Daniel von Rhein <jonathan@purebadger.com>
+MAINTAINER Daniel von Rhein <daniel.vonrhein@gmail.com>
 
 ENV HUGO_VERSION 0.50
 ENV HUGO_BINARY hugo_${HUGO_VERSION}_linux-64bit
